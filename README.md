@@ -17,5 +17,5 @@ Learning to use python and JS
 
 
 <h2>Socials</h2>
-  - <a href="discordapp.com/users/772934193029971998">Discord</a>
+  - <a href="discordapp.com/users/772934193029971998">Discord</a><br>
   - Email: shettiavaneesh@gmail.com
